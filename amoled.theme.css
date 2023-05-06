@@ -7,7 +7,7 @@
  * @updateUrl https://raw.githubusercontent.com/jiltq/bd-amoled/main/amoled.theme.css
 */
 
-:root {
+* {
     --shadow-border: 0 0 0 1px hsla(0, 0%, 100%, 0.08);
     --shadow-border-filter: drop-shadow(0 0 1px hsla(0, 0%, 100%, 0.08));
     --shadow-high: 0 12px 24px 0 rgba(0, 0, 0, 0.24);
